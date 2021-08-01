@@ -5,4 +5,3 @@ Tech:
 Website : HTML CSS 
 Framework: Django
 Model : ML algorithms , Jupiter Notebook
-Database : MongoDB
