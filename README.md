@@ -5,13 +5,14 @@ DiabetesPrediction is a machine learning project aimed at predicting the occurre
 ## Table of Contents
 
 - [Overview](#overview)
+- [Methodology Chart](#methodology-chart)
+- [Project Structure](#project-structure)
 - [Dataset](#dataset)
+- [Technologies](#technologies)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Models](#models)
 - [Results](#results)
-- [Technologies](#technologies)
-- [Contributing](#contributing)
 
 ## Overview
 
