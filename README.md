@@ -21,8 +21,6 @@ This project is designed to predict diabetes using machine learning algorithms. 
 ### Methodology Chart
 ![Screenshot (420)](https://user-images.githubusercontent.com/49087609/133254918-0c71509c-e36d-40e2-994a-076edc6ba769.png)
 
-The methodology chart outlines the DiabetesPrediction project's steps: data collection from the Pima Indians Diabetes Database, preprocessing for data quality, model training with Logistic Regression, Decision Tree, and SVM, evaluation using metrics like accuracy, integration into a Django app for real-time prediction, testing, deployment, and ongoing maintenance for accuracy and usability improvements.
-
 ## Project Structure
 ```
 DiabetesPrediction/
